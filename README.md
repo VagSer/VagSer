@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sergey</h1>
 <h3 align="center">I'm trying to become junior developer</h3>
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **React**
 
 - 📫 How to reach me **thevagser@gmail.com**
 
