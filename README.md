@@ -1,12 +1,13 @@
 <h1 align="center">Hi 👋, I'm Sergey</h1>
-<h3 align="center">I'm trying to become frontend developer</h3>
+<h3 align="center">I'm junior frontend developer</h3>
 
-- 🌱 I’m currently learning **Vue**
+- 🌱 I’m currently learning **React Native**
+
+- 👨‍💻 All of my projects are available at [https://vagser.netlify.app/](https://vagser.netlify.app/)
 
 - 💬 Ask me about **React, Vue, Typescript**
 
 - 📫 How to reach me **thevagser@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/thevagser" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thevagser" height="30" width="40" /></a> <a href="https://t.me/TheVagSer" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="40" /></a>
