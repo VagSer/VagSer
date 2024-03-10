@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://vagser.netlify.app/](https://vagser.netlify.app/)
 
-- 💬 Ask me about **React, Vue, Typescript**
+- 💬 Ask me about **Svelte, Vue, Typescript**
 
 - 📫 How to reach me **thevagser@gmail.com**
 <h3 align="left">Connect with me:</h3>
