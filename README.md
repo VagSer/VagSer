@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Flutter**
 
-- 👨‍💻 All of my projects are available at [https://vagser.netlify.app/](https://vagser.netlify.app/)
+- 👨‍💻 All of my projects are available at **link will be later**
 
 - 💬 Ask me about **Svelte, Vue, Typescript**
 
